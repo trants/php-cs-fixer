@@ -1,5 +1,5 @@
 {
-  "name": "vnspc/php-cs-fixer",
+  "name": "vspc/php-cs-fixer",
   "description": "Automatically configuration PHP CS Fixer for projects.",
   "keywords": [
     "php",
@@ -12,7 +12,7 @@
     {
       "name": "Son Tran Thanh",
       "email": "286.trants@gmail.com",
-      "homepage": "https://opensource.trants.me"
+      "homepage": "https://trants.me"
     }
   ],
   "require": {
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Vnspc\\PhpCsFixer\\": "src"
+      "Vspc\\PhpCsFixer\\": "src"
     }
   },
   "config": {
