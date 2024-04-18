@@ -181,7 +181,7 @@ class Config extends \PhpCsFixer\Config
      */
     public function __construct()
     {
-        parent::__construct('vnspc');
+        parent::__construct('vspc');
 
         $this->setRiskyAllowed(true);
     }
