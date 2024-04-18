@@ -1,6 +1,6 @@
 <?php
 
-namespace Vnspc\PhpCsFixer;
+namespace Vspc\PhpCsFixer;
 
 class Config extends \PhpCsFixer\Config
 {
